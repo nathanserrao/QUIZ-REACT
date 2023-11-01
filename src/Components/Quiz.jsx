@@ -25,12 +25,12 @@ function Quiz(){
       'd) HTML, CSS e JavaScript.'],
       correta: 'd'
     },
-    { id: 4, enunciado: 'Quais são as principais tecnologias do mundo Front-end?',
-    alternativas: ['a) Java, Golang e Python.',
-      'b) AWS, Google Cloud e Azure.',
-      'c) Kotlin, HTML e CSS.',
-      'd) HTML, CSS e JavaScript.'],
-      correta: 'd'
+    { id: 4, enunciado: 'Quem desenvolveu o React?',
+    alternativas: ['a) Google',
+      'b) Facebook',
+      'c) Microsoft',
+      'd) Apple'],
+      correta: 'b'
     }
   ]
 
